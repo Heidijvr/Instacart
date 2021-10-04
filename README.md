@@ -6,7 +6,7 @@ This was my fourth CareerFoundry task which consolidated the following new skill
    - Compare various Python libraries and what they can be used for
    - Distinguish between different data types in Python
 3. Anaconda analytics environment for writing code
-4. Installing and inmporting libraries
+4. Installing and importing libraries
 5. Data types in Python
 6. Intro to pandas
    - Creating a dataframe using Pandas
