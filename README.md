@@ -2,6 +2,14 @@
 
 This was my fourth CareerFoundry task which consolidated the following new skills:
 
+**Who is Instacart**: Instacart is an American company that offers an online application for a grocery ordering,
+delivery, and pick-up service.
+**Objective**: An evaluation of the relationship between customer profiles and their respective buying patterns can assist 
+stakeholders in developing a targeted marketing strategy to increase customer’s brand loyalty.
+
+An evaluation of the relationship between customer profiles and their respective buying patterns can assist 
+stakeholders in developing a targeted marketing strategy to increase customer’s brand loyalty.
+
 1. Jupyter fundamentals and Python data types 
    - Compare various Python libraries and what they can be used for
    - Distinguish between different data types in Python
